@@ -1,0 +1,1 @@
+"use strict";const t=require("../utils/request.js");exports.apiDetailWall=function(e={}){return t.request({url:"/detailWall",data:e})},exports.apiSetupScore=function(e={}){return t.request({url:"/setupScore",data:e})},exports.apiWriteDownload=function(e={}){return t.request({url:"/downloadWall",data:e})};

@@ -1,0 +1,1 @@
+<view class="classify data-v-9aa21efc"><custom-nav-bar wx:if="{{a}}" class="data-v-9aa21efc" u-i="9aa21efc-0" bind:__l="__l" u-p="{{a}}"></custom-nav-bar><view class="content data-v-9aa21efc"><theme-item wx:for="{{b}}" wx:for-item="item" wx:key="a" class="data-v-9aa21efc" u-i="{{item.b}}" bind:__l="__l" u-p="{{item.c}}"></theme-item></view></view>
